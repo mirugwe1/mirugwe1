@@ -13,7 +13,7 @@ I'm a passionate data scientist with a strong background in developing and deplo
   
   
 <h1 align="left"> What You'll Find Here </h1>
-<p align="center">
+<p align="left">
   <samp>
 In this repository, you'll find a diverse collection of projects, experiments, and research work that reflect my interests and expertise. I believe in the power of open source and strive to make my code accessible, well-documented, and easy to understand. I hope you'll find value in exploring these projects and perhaps even find inspiration for your own endeavors.
   </samp>
