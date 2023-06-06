@@ -16,14 +16,15 @@ In this repository, you'll find a diverse collection of projects, experiments, a
 
 - 🌱 I’m currently learning **PyTorch, Generative AI modeling**
 
-- 📝 I regularly write articles on  <b> The application of machine learning and deep learning in healthcare.</b> 
+- 📝 I regularly write articles on   **The application of machine learning and deep learning in healthcare**
 
 - 💬 Ask me about **Python, R, Tensorflow, Machine Learning, Deep Learning**
+- 📫 How to reach me **mirugwealex@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 I love connecting with fellow developers, researchers, and enthusiasts. If you have any questions, ideas, or just want to say hello, feel free to reach out to me. You can find me on various platforms:
-📫 How to reach me **mirugwealex@gmail.com**
+
 <p align="left">
 <a href="https://twitter.com/mirugwealex1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirugwealex1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mirugwe-alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirugwe-alex" height="30" width="40" /></a>
