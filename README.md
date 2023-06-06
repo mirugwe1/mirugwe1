@@ -1,8 +1,9 @@
 ![MasterHead](https://github.com/mirugwe1/Data_Protection/blob/master/hello.png)
 
-<h1 align="center">Hi 👋, I'm Alex Mirugwe</h1>
 👋 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here! This is the place where I showcase my projects, share my code, and collaborate with other amazing developers and enthusiasts like yourself. Feel free to explore, learn, and contribute. Let's dive in!
 
+<h1 align="center"> About Me </h1>
+I'm a passionate machine learning engineer with a strong background in developing and deploying AI-powered solutions. I have a deep love for data and enjoy solving complex problems using cutting-edge technologies. My journey in the field of machine learning has been an exciting and continuous learning experience, and GitHub has played a significant role in shaping my skills.
 
 
 Data scientist with 4 years of experience in utilizing advanced data analytics, machine learning, and deep learning techniques to provide insights and solutions for societal challenges. Experienced in developing predictive models, image and text classification, and natural language processing algorithms
