@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alex Mirugwe</h1>
 <h3 align="center">Data scientist with 4 years of experience in utilizing advanced data analytics, machine learning, and deep learning techniques to provide insights and solutions for societal challenges. Experienced in developing predictive models, image and text classification, and natural language processing algorithms</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/85325733/175816539-05d30bc3-2c2e-4d03-bf95-714c4b631398.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/mirugwe1/Data_Protection/blob/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirugwe1&label=Profile%20views&color=0e75b6&style=flat" alt="mirugwe1" /> </p>
 
