@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
+![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Alex Mirugwe</h1>
 <h3 align="center">Data scientist with 4 years of experience in utilizing advanced data analytics, machine learning, and deep learning techniques to provide insights and solutions for societal challenges. Experienced in developing predictive models, image and text classification, and natural language processing algorithms</h3>
 
