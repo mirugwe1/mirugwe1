@@ -1,12 +1,12 @@
 ![MasterHead](https://github.com/mirugwe1/Data_Protection/blob/master/hello.png)
 
-<p align="center">
+<p align="left">
   <samp>
 👋 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here! This is the place where I showcase my projects, share my code, and collaborate with other amazing developers and enthusiasts like yourself. Feel free to explore, learn, and contribute. Let's dive in!
 </samp>
   
 <h1 align="left"> About Me </h1>
-<p align="center">
+<p align="left">
   <samp>
 I'm a passionate data scientist with a strong background in developing and deploying AI-powered solutions. I have a deep love for data and enjoy solving complex problems using cutting-edge technologies. My journey in the field of data science has been an exciting and continuous learning experience.
 </samp>
