@@ -40,7 +40,7 @@ I love connecting with fellow developers, researchers, and enthusiasts. If you h
   
 <p align="left">
 <a href="https://twitter.com/mirugwealex1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirugwealex1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mirugwe-alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirugwe-alex" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mirugwe-alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirugwe-alex-62a78492" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mirugwe_alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mirugwe_alex" height="30" width="40" /></a>
 <a href="https://kaggle.com/mirugwe alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mirugwe alex" height="30" width="40" /></a>
 <a href="https://fb.com/mirugwe.alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirugwe.alex" height="30" width="40" /></a>
