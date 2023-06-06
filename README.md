@@ -33,7 +33,7 @@ In this repository, you'll find a diverse collection of projects, experiments, a
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <samp>
 I love connecting with fellow developers, researchers, and enthusiasts. If you have any questions, ideas, or just want to say hello, feel free to reach out to me. You can find me on various platforms:<br>
  </samp>
