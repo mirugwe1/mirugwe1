@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PyTorch, Generative AI modeling**
 
-- 📝 I regularly write articles on (The application of machine learning and deep learning in healthcare.)
+- 📝 I regularly write articles on <b The application of machine learning and deep learning in healthcare./b>
 
 - 💬 Ask me about **Python, R, Tensorflow, Machine Learning, Deep Learning**
 
