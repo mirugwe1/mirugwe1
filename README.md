@@ -1,4 +1,4 @@
-[MasterHead](https://github.com/mirugwe1/Data_Protection/blob/master/hello.png)
+[![MasterHead](https://github.com/mirugwe1/Data_Protection/blob/master/hello.png)]
 
 <h1 align="center">Hi 👋, I'm Alex Mirugwe</h1>
 👋 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here! This is the place where I showcase my projects, share my code, and collaborate with other amazing developers and enthusiasts like yourself. Feel free to explore, learn, and contribute. Let's dive in!
