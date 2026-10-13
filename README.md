@@ -1,7 +1,7 @@
 <h1 align="center">Alex Mirugwe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2E86AB&center=true&vCenter=true&width=760&lines=PhD+Candidate+%40+Queensland+University+of+Technology;Machine+Learning+%2F+Deep+Learning+for+Healthcare;Unsupervised+Anomaly+Detection+%26+Medical+Imaging;Generative+AI+for+Public+Health+in+Africa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2E86AB&center=true&vCenter=true&width=760&lines=PhD+Candidate+%40+Queensland+University+of+Technology;Machine+Learning+%2F+Deep+Learning+for+Healthcare;Unsupervised+Anomaly+Detection+%26+Medical+Imaging;Generative+AI+for+Medical+Imaging" alt="Typing SVG" />
 </p>
 
 <p align="center">
