@@ -1,59 +1,57 @@
-![MasterHead](https://github.com/mirugwe1/Data_Protection/blob/master/hello.png)
+<h1 align="center">Alex Mirugwe</h1>
 
-<p align="left">
-  <samp>
-👋 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here! This is the place where I showcase my projects, share my code, and collaborate with other amazing developers and enthusiasts like yourself. Feel free to explore, learn, and contribute. Let's dive in!
-</samp>
-  
-<h1 align="left"> About Me </h1>
-<p align="left">
-  <samp>
-I'm a passionate data scientist with a strong background in developing and deploying AI-powered solutions. I have a deep love for data and enjoy solving complex problems using cutting-edge technologies. My journey in the field of data science has been an exciting and continuous learning experience.
-</samp>
-  
-  
-<h1 align="left"> What You'll Find Here </h1>
-<p align="left">
-  <samp>
-In this repository, you'll find a diverse collection of projects, experiments, and research work that reflect my interests and expertise. I believe in the power of open source and strive to make my code accessible, well-documented, and easy to understand. I hope you'll find value in exploring these projects and perhaps even find inspiration for your own endeavors.
-  </samp>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/mirugwe1/Data_Protection/blob/master/code.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirugwe1&label=Profile%20views&color=0e75b6&style=flat" alt="mirugwe1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mirugwealex1" target="blank"><img src="https://img.shields.io/twitter/follow/mirugwealex1?logo=twitter&style=for-the-badge" alt="mirugwealex1" /></a> </p>
-
-- 🌱 I’m currently learning **PyTorch, Generative AI modeling**
-
-- 📝 I regularly write articles on   **The application of machine learning and deep learning in healthcare**
-
-- 💬 Ask me about **Python, R, Tensorflow, Machine Learning, Deep Learning**
-- 📫 How to reach me **mirugwealex@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <samp>
-I love connecting with fellow data scientists, researchers, and enthusiasts. If you have any questions, ideas, or just want to say hello, feel free to reach out to me. You can find me on various platforms:<br>
- </samp>
-  
-<p align="left">
-<a href="https://twitter.com/mirugwealex1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirugwealex1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mirugwe-alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirugwe-alex-62a78492" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mirugwe_alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mirugwe_alex" height="30" width="40" /></a>
-<a href="https://kaggle.com/mirugwe alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mirugwe alex" height="30" width="40" /></a>
-<a href="https://fb.com/mirugwe.alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirugwe.alex" height="30" width="40" /></a>
-<a href="https://instagram.com/mirugwe_alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirugwe_alex" height="30" width="40" /></a>
-<a href="https://medium.com/@mirugwejalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mirugwejalex" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2E86AB&center=true&vCenter=true&width=760&lines=PhD+Candidate+%40+Queensland+University+of+Technology;Machine+Learning+%2F+Deep+Learning+for+Healthcare;Unsupervised+Anomaly+Detection+%26+Medical+Imaging;Generative+AI+for+Public+Health+in+Africa" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.mirugwe.com/" target="_blank"><img src="https://img.shields.io/badge/Website-mirugwe.com-2E86AB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/mirugwe-alex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mirugwealex@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirugwe1&show_icons=true&locale=en&layout=compact" alt="mirugwe1" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/10%2B-Peer--Reviewed%20Publications-444444?style=flat-square" alt="Publications" />
+  <img src="https://img.shields.io/badge/4%2B%20years-ML%2FAI%20for%20Public%20Health-444444?style=flat-square" alt="Experience" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirugwe1&show_icons=true&locale=en" alt="mirugwe1" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirugwe1&" alt="mirugwe1" /></p>
+PhD candidate at Queensland University of Technology (Brisbane, Australia), researching geometry-aware deep generative models for unsupervised anomaly detection and early lesion localisation in medical imaging. Before the PhD, I spent 4+ years as a data scientist at Makerere University School of Public Health, building ML and NLP systems for HIV care and public health programs across sub-Saharan Africa under a CDC-funded program.
 
+I work across the full applied research pipeline: literature review and experimental design, model development and evaluation, and writing up results for peer review. Background in Computer Engineering (BSc, Makerere University) and Data Science (MSc, University of Cape Town), with 10+ peer-reviewed publications.
+
+### Research Focus
+
+- **Medical imaging and generative modeling:** deformable autoencoders, latent diffusion, diffeomorphic registration, and disentangled representation learning for unsupervised anomaly detection
+- **Clinical AI validation:** how diagnostic AI systems are evaluated and deployed safely across diverse patient populations
+- **ML and NLP for public health:** applied machine learning for health system challenges in low-resource settings
+- **Generative AI:** LLM-based tools (LangChain, GPT, Llama) for healthcare applications
+
+### Core Skills
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36"/>
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirugwe1&show_icons=true&hide_border=true&count_private=true" alt="Alex's GitHub stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirugwe1&layout=compact&hide_border=true" alt="Top languages" width="320" />
+</p>
+
+<hr/>
+
+<p align="center"><sub>mirugwe.com &nbsp;&middot;&nbsp; mirugwealex@gmail.com</sub></p>
